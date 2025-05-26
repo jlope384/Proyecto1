@@ -1,0 +1,9 @@
+.display {
+  background: black;
+  color: lime;
+  font-size: 2rem;
+  padding: 0.5rem;
+  text-align: right;
+  border-radius: 0.25rem;
+  margin-bottom: 0.5rem;
+}
